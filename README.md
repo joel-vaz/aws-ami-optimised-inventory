@@ -81,4 +81,3 @@ pytest -k "test_cross_account_ami"
 - **Throttling**: Automated retries with jitter
 - **Unavailable AMIs**: Skips invalid entries, logs errors
 - **Region Outages**: Fails individual regions, continues others
-```
